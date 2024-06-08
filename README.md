@@ -7,9 +7,9 @@ RM: 555556
 Funções: Desenvolvimento do back-end (Python), parte criativa e inicial do hardware, criação da documentação
 Guilherme Arendt
 RM: 554962
-
-1-Funções: Desenvolvimento do front-end, criação efetiva do hardware, programação em JavaScript, verificação da documentação
+Funções: Desenvolvimento do front-end, criação efetiva do hardware, programação em JavaScript, verificação da documentação
 Descrição do Projeto
+
 Este projeto visa criar uma plataforma que facilita a conexão entre ONGs dedicadas ao cuidado do meio ambiente marinho e investidores. A plataforma oferece um dispositivo de medição da poluição da água que garante a confiabilidade dos dados apresentados pelas ONGs. O objetivo é proporcionar uma interface de comunicação eficiente e segura para fomentar investimentos em projetos de conservação marinha.
 
 2-Funcionalidades
