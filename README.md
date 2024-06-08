@@ -1,4 +1,4 @@
-#Chat em Python
+CHAT EM PYTHON
 
 Plataforma de Conexão entre ONGs de Meio Ambiente Marinho e Investidores
 Desenvolvedores
